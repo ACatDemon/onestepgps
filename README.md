@@ -1,3 +1,5 @@
+The Device Map should update every 30 seconds. It includes functionality for sorting and highlighting specific devices. Settings are saved locally to a json file. 
+
 # Setup
 
 ## Installation
