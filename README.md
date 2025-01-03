@@ -19,6 +19,7 @@ VUE_APP_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 
 ## Run Backend
 ```bash
+go get github.com/joho/godotenv
 go run main/server.go
 ```
 Server runs on http://localhost:3000
